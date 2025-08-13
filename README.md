@@ -1,5 +1,8 @@
 # BareC
 BareC it's a simple 16-bit CPU emulator written on C
+
+[Note: Due to difficulties, work on the project has been suspended.]
+
 ## What does it support?
 It's supports MOV, NOP, HLT
 
